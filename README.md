@@ -1,6 +1,8 @@
 Introducción
+
 El Sistema de Gestión Académica (SGA) es una solución informática diseñada para facilitar la administración de estudiantes y cursos en instituciones educativas. Su propósito es permitir la ejecución de operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de manera eficiente, garantizando un manejo adecuado de asignaciones, validaciones y excepciones. Además, mediante la implementación de una arquitectura por capas, se busca optimizar la separación de responsabilidades entre el frontend y el backend, asegurando una mayor escalabilidad y mantenimiento del sistema.
 Frontend y Backend
+
 El frontend es la parte del sistema con la que el usuario interactúa directamente. Se encarga de la presentación de la información y la experiencia de usuario mediante tecnologías como HTML, CSS y JavaScript, además de frameworks como ASP.NET Web Forms. En el contexto del SGA, el frontend se utiliza para diseñar las páginas web de gestión de estudiantes y cursos, mostrando formularios, listas y botones de acción.
 Por otro lado, el backend es el núcleo lógico del sistema, donde se procesan las solicitudes y se maneja la base de datos. Utiliza tecnologías como ASP.NET con C#, ADO.NET o Entity Framework. En el SGA, el backend gestiona la lógica de negocio mediante una biblioteca de clases, permitiendo el registro, consulta, actualización y eliminación de estudiantes, cursos y asignaciones, además de validar los datos y manejar excepciones.
 Objetivo General
